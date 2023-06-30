@@ -1,2 +1,2 @@
-# browser-fingerprinting
-Sinple browser fingerprinting project
+# Browser Fingerprinting
+Simple browser fingerprinting project
